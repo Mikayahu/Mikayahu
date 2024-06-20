@@ -4,4 +4,4 @@ Soy estudiante de Analista en Sistemas.
 
 ## 🌱 Actualmente estoy aprendiendo
 
-- [![**Python**]
+- **Python**
